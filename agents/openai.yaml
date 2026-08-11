@@ -1,0 +1,4 @@
+interface:
+  display_name: "Delegate to Grok Build"
+  short_description: "Delegate and verify bounded tasks with Grok Build"
+  default_prompt: "Use $delegate-to-grok-build to delegate and independently verify a bounded codebase task with the local Grok Build CLI."
